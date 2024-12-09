@@ -41,5 +41,10 @@ This project demonstrates the implementation of Decision Tree and Random Forest 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/shivanibussa/Decision_Tree_Random_Forest.git
+2. Installations
+
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn
+   python code.py
+
